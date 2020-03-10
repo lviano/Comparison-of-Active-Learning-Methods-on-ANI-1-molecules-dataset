@@ -16,8 +16,12 @@ This work is part of my study plan at EPFL and it was carried out under the supe
 ## Prerequisities
 
 QUIPPY (https://libatoms.github.io/QUIP/install.html)
-Python 2
 
+Python 2 for the processing part, Python 3 for uploading the data
+
+Dataset (Available Pool for Training Set): ANI-1 (https://github.com/isayev/ANI1_dataset)
+
+Test Set: COMP-6 (https://github.com/isayev/COMP6)
 ## Usage 
 
 Launch one of the script main to run the desired methods on different size of available pool. Insert in the list of methods the scripts corresponding to the active learning methods to be tested.
