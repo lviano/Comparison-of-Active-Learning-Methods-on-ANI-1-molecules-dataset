@@ -22,6 +22,9 @@ Python 2 for the processing part, Python 3 for uploading the data
 Dataset (Available Pool for Training Set): ANI-1 (https://github.com/isayev/ANI1_dataset)
 
 Test Set: COMP-6 (https://github.com/isayev/COMP6)
+
+ml_tools: https://github.com/felixmusil/ml_tools
+
 ## Usage 
 
 Launch one of the script main to run the desired methods on different size of available pool. Insert in the list of methods the scripts corresponding to the active learning methods to be tested.
