@@ -26,5 +26,5 @@ Test Set: COMP-6 (https://github.com/isayev/COMP6)
 ml_tools: https://github.com/felixmusil/ml_tools
 
 ## Usage 
-
-Launch one of the script main to run the desired methods on different size of available pool. Insert in the list of methods the scripts corresponding to the active learning methods to be tested.
+1) From Terminal use Makefile to compile the Cython routine for parallel sorting
+2) Launch one of the script main to run the desired methods on different size of available pool. Insert in the list of methods the scripts corresponding to the active learning methods to be tested.
